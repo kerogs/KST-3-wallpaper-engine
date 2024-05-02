@@ -1,25 +1,41 @@
-# Projet : KST-3 Wallpaper Engine
+# KST-3 | Wallpaper Engine
 
-## Description
-KST-3 Wallpaper Engine est un projet qui consiste en un site web minimaliste conçu pour être utilisé comme fond d'écran interactif sur Wallpaper Engine. Il simule un terminal informatique, offrant une expérience immersive pour les amateurs de science-fiction et de dark fantasy.
+<center>
+<em>KST-3 is a miniature terminal I made to test wallpapers with a simple html page and some css and JS.</em>
+</center>
 
-Le terminal simulé, appelé KST-3, est ancré dans un petit monde de science-fiction et de dark fantasy, offrant une atmosphère unique et immersive.
+<br>
 
-## Technologies Utilisées
-- **Pug** : Utilisé pour la génération dynamique du HTML, offrant une syntaxe concise et puissante pour la création de modèles.
-- **SCSS** : Utilisé pour la feuille de style, permettant une écriture plus propre et plus modulaire du CSS.
-- **JavaScript** : Utilisé pour la logique interactive et la manipulation du DOM, offrant une expérience utilisateur fluide et dynamique.
+<div align="right">
+<img alt="Static Badge" src="https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=fff">
+<img alt="Static Badge" src="https://img.shields.io/badge/sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=fff">
+<img alt="Static Badge" src="https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=000">
+</div>
 
-## Fonctionnalités
-- **Simulation de Terminal** : Le site simule un terminal informatique interactif, offrant une expérience réaliste aux utilisateurs.
-- **Thème Science-Fiction / Dark Fantasy** : Le terminal est ancré dans un petit monde de science-fiction et de dark fantasy, offrant une immersion totale dans l'univers du projet.
-- **Utilisation comme Fond d'Écran** : Conçu pour être utilisé avec Wallpaper Engine, offrant une expérience de fond d'écran unique et immersive.
+## Installation
 
-## Aperçu du Projet
-(Vous pouvez insérer ici des captures d'écran ou des GIF animés montrant le fonctionnement du site.)
+1. Clone it
+```sh
+git clone https://github.com/kerogs/KST-3-wallpaper-engine.git
+```
 
-## Auteur
-[Votre Nom/Organisation]
+2. Install SASS
+```sh
+npm install -g sass
+```
 
-## Licence
-[Indiquez ici la licence de votre choix pour le projet, par exemple : MIT License, GNU General Public License, etc.]
+3. It's all good
+
+## What is it ?
+
+The wallpaper simulates a terminal where commands are displayed randomly.
+
+## What can I do with the code?
+> You're free to clone it, and improve it as you see fit.
+
+- Link : https://steamcommunity.com/sharedfiles/filedetails/?id=3237579549
+
+## Where to found it
+<center>
+<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3237579549"><img alt="Static Badge" src="https://img.shields.io/badge/STEAM-%23000000?style=for-the-badge&logo=steam&logoColor=fff"></a>
+</center>
